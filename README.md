@@ -1,2 +1,6 @@
 # Churn
-Churn Prediction 
+# Churn Prediction by Sitraka Forler 
+#### sitraka.fr ####
+
+
+
