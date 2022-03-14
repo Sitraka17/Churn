@@ -9,6 +9,6 @@ The term is used in many contexts, but is most widely applied in business with r
 
 Sources : 
 -------------------
-<br> Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
+Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
 <br> Scientific paper: https://www.sciencedirect.com/science/article/abs/pii/S0957417411011353 
 
