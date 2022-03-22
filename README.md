@@ -13,7 +13,7 @@ Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
 
 
 Possible projects: 
-1)Cancelled a service that is under contract.
+<br/> 1)Cancelled a service that is under contract.<br/>
 2)Expiration of credit card.
 3)Left a service not under contract.
 4)Purchase from a different store.
