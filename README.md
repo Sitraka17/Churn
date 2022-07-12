@@ -8,7 +8,7 @@ The term is used in many contexts, but is most widely applied in business with r
 
 
 
-#### To increase sales in the long term.####
+#### To increase sales in the long term. ####
 Increase customer loyalty and value over time and harmonise the communication strategy across channels.
 
 #### Customer Analytics ####
