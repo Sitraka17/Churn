@@ -8,13 +8,13 @@ The term is used in many contexts, but is most widely applied in business with r
 
 
 
-##To increase sales in the long term.
+#### To increase sales in the long term.####
 Increase customer loyalty and value over time and harmonise the communication strategy across channels.
 
-##Customer Analytics
+#### Customer Analytics ####
 Based on a 360° vision of the customer, the analysis of customer behaviour in response to requests made it possible to anticipate their expectations and detect the key moments to be seized in order to propose an expected offer.
 
-##Increase in "Life Time Value
+#### Increase in "Life Time Value ####
 Increase in the average basket of targeted customers (vs. average basket of the segment)
 Increase in turnover per targeted customer (vs. turnover per customer in the control segment) 
 
