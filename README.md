@@ -6,6 +6,22 @@
 The term is used in many contexts, but is most widely applied in business with respect to a contractual customer base, for example in businesses with a subscriber-based service model such as mobile telephone networks and pay TV operators. The term is also used to refer to participant turnover in peer-to-peer networks. Churn rate is an input into customer lifetime value modeling, and can be part of a simulator used to measure return on marketing investment using marketing mix modeling."*
 
 
+
+
+##To increase sales in the long term.
+Increase customer loyalty and value over time and harmonise the communication strategy across channels.
+
+##Customer Analytics
+Based on a 360° vision of the customer, the analysis of customer behaviour in response to requests made it possible to anticipate their expectations and detect the key moments to be seized in order to propose an expected offer.
+
+##Increase in "Life Time Value
+Increase in the average basket of targeted customers (vs. average basket of the segment)
+Increase in turnover per targeted customer (vs. turnover per customer in the control segment) 
+
+
+
+
+
 Sources : 
 -------------------
 Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
