@@ -1,4 +1,4 @@
-# Churn Prediction by (Sitraka Forler)[https://www.sitraka.fr/]
+# Churn Prediction by [Sitraka Forler](https://www.sitraka.fr/)
 #### sitraka.fr ####
 
 "Churn rate (sometimes called attrition rate), in its broadest sense, is a measure of the number of individuals or items moving out of a collective group over a specific period. It is one of two primary factors that determine the steady-state level of customers a business will support.
