@@ -29,7 +29,7 @@ Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
 
 
 Possible projects: 
-<br/> 1)Cancelled a service that is under contract.<br/>
-<br/> 2)Expiration of credit card.<br/>
-<br/> 3)Left a service not under contract.<br/>
-<br/> 4)Purchase from a different store.<br/>
+<br/> 1) Cancelled a service that is under contract.<br/>
+<br/> 2) Expiration of credit card.<br/>
+<br/> 3) Left a service not under contract.<br/>
+<br/> 4) Purchase from a different store.<br/>
