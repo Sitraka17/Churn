@@ -20,8 +20,6 @@ Increase in turnover per targeted customer (vs. turnover per customer in the con
 
 
 
-
-
 Sources : 
 -------------------
 Kaggle: https://www.kaggle.com/bhartiprasad17/customer-churn-prediction
