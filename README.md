@@ -31,5 +31,3 @@ Possible projects:
 <br/> 2) Expiration of credit card.<br/>
 <br/> 3) Left a service not under contract.<br/>
 <br/> 4) Purchase from a different store.<br/>
-
-Dude
